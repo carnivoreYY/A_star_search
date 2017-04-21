@@ -1,1 +1,1 @@
-# A_star_search
+# an AI assignment
